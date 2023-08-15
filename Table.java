@@ -73,7 +73,6 @@ public class Table {
         subject3 = String.format("SE-%03d", 
                                 Integer.valueOf(subject3.substring(3)));
 
-
         name = String.format("%s%s%s", COLOR_BLUE_BOLD, name.toUpperCase(), RESET);
 
         // Let's generate the table

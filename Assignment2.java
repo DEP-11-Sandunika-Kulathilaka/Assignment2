@@ -1,4 +1,5 @@
 import java.util.Scanner;
+
 public class Assignment2 {
     private static final Scanner scanner = new Scanner(System.in);
 

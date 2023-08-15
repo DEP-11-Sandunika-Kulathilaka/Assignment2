@@ -24,7 +24,7 @@ public class Demo1 {
             else System.out.println("Enter your subject");
             int subject1 = scanner.nextInt();
 
-            if (subject1.strip()).length()==0 ) {
+            if (subject1.strip()).length()==0 ; {
                 System.out.println("\\033[31mInvalid Age \\033[39m");
             }
         }
